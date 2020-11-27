@@ -1,0 +1,4 @@
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Source\UnrealPluginDemo\UnrealPluginDemo.Build.cs
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Source\PickupPlugin\PickupPlugin.Build.cs
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Source\UnrealPluginDemo.Target.cs
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Source\UnrealPluginDemoEditor.Target.cs

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PickupPlugin-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UnrealPluginDemoEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\Module.PickupPlugin.cpp.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\Module.PickupPlugin.gen.cpp.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\Default.rc2.res"
+/OUT:"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\UE4Editor-PickupPlugin-0004.lib"
+/INCLUDE:IMPLEMENT_MODULE_PickupPlugin

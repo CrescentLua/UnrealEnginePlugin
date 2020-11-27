@@ -1,0 +1,14 @@
+﻿  Parsing headers for UnrealPluginDemoEditor
+    Running UnrealHeaderTool "C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\UnrealPluginDemo.uproject" "C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UnrealPluginDemoEditor\Development\UnrealPluginDemoEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for UnrealPluginDemoEditor in 5.01415 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (E:\VS\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (E:\Windows Kits\10).
+  Building 5 actions with 12 processes...
+    [1/5] Module.PickupPlugin.cpp
+    [2/5] Module.PickupPlugin.gen.cpp
+    [3/5] UE4Editor-PickupPlugin.lib
+       Creating library C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\UE4Editor-PickupPlugin.lib and object C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\UE4Editor-PickupPlugin.exp
+    [4/5] UE4Editor-PickupPlugin.dll
+       Creating library C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\UE4Editor-PickupPlugin.suppressed.lib and object C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\UE4Editor-PickupPlugin.suppressed.exp
+    [5/5] UnrealPluginDemoEditor.target
+  Total time in Parallel executor: 15.51 seconds
+  Total execution time: 21.03 seconds

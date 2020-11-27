@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealPluginDemo-5254.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UnrealPluginDemoEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\UnrealPluginDemo.cpp.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\UnrealPluginDemoGameModeBase.cpp.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\UnrealPluginDemo.init.gen.cpp.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\UnrealPluginDemoGameModeBase.gen.cpp.obj"
+"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\Default.rc2.res"
+/OUT:"C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\UE4Editor-UnrealPluginDemo-5254.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealPluginDemo

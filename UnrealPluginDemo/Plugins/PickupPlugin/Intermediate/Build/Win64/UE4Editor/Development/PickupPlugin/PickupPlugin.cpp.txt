@@ -1,0 +1,2 @@
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Intermediate\Build\Win64\UE4Editor\Development\PickupPlugin\Definitions.PickupPlugin.h
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Plugins\PickupPlugin\Source\PickupPlugin\Public\PickupPlugin.h

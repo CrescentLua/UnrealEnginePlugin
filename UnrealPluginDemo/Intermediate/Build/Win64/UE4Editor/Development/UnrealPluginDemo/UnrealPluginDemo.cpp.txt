@@ -1,0 +1,2 @@
+C:\Users\RuthlessLua\Documents\Unreal Projects\UnrealPluginDemo\Intermediate\Build\Win64\UE4Editor\Development\UnrealPluginDemo\Definitions.UnrealPluginDemo.h
+c:\users\ruthlesslua\documents\unreal projects\unrealplugindemo\source\unrealplugindemo\UnrealPluginDemo.h

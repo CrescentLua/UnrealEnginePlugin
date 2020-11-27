@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PickupPlugin.cpp.obj": [
+			"Pickup.cpp.obj",
+			"PickupPlugin.cpp.obj"
+		],
+		"Module.PickupPlugin.gen.cpp.obj": [
+			"Pickup.gen.cpp.obj",
+			"PickupPlugin.init.gen.cpp.obj"
+		]
+	}
+}

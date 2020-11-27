@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealPluginDemo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{51D3B3DB-3636-42A1-B814-D91AF08C2389}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealPluginDemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealPluginDemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4D61CB5A-ADF7-4407-A03D-18C6D95767E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{67A4A630-C7F4-4A25-B601-3D757F553C90}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{E3950EB0-6C9B-42EB-BD6D-6A02CAA0F457}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{0C3455CD-40F2-4C81-98CE-382BB3E391C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{20A7BEED-D5F5-425D-8A95-8F2522B82F15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{DF4329EF-82CB-4B92-9ED1-31DACE5A2A44}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{1F9601D1-B710-499A-BC9F-BADDD428B6F0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{8A8267C4-B0E1-4655-92D5-DC90CCC382D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{19000B4C-58B6-4E2A-A382-6E6C7F88D700}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{D55FE4EF-3DD0-4B80-BC46-B7AF7B7D80B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PickupPlugin">
+      <UniqueIdentifier>{819D4EE6-148F-4086-A01A-436BC0911CC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PickupPlugin\Source">
+      <UniqueIdentifier>{A64FE3A7-BF5F-4649-BBFF-CD33CDF77F10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PickupPlugin\Source\PickupPlugin">
+      <UniqueIdentifier>{B960BC34-5B20-4662-B163-6D87377853FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PickupPlugin\Source\PickupPlugin\PickupPlugin.Build.cs">
+      <Filter>Plugins\PickupPlugin\Source\PickupPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\PickupPlugin\Source\PickupPlugin\Private">
+      <UniqueIdentifier>{A0AADE84-36FE-4931-929B-A2C98A12B07A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PickupPlugin\Source\PickupPlugin\Private\Pickup.cpp">
+      <Filter>Plugins\PickupPlugin\Source\PickupPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PickupPlugin\Source\PickupPlugin\Private\PickupPlugin.cpp">
+      <Filter>Plugins\PickupPlugin\Source\PickupPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\PickupPlugin\Source\PickupPlugin\Public">
+      <UniqueIdentifier>{E670E9BA-41FD-478C-BD57-8829701662AF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\PickupPlugin\Source\PickupPlugin\Public\Pickup.h">
+      <Filter>Plugins\PickupPlugin\Source\PickupPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PickupPlugin\Source\PickupPlugin\Public\PickupPlugin.h">
+      <Filter>Plugins\PickupPlugin\Source\PickupPlugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\PickupPlugin\PickupPlugin.uplugin">
+      <Filter>Plugins\PickupPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\PickupPlugin\Resources">
+      <UniqueIdentifier>{290A017A-4A7D-4212-A96B-B338B4E6DF10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PickupPlugin\Resources\Icon128.png">
+      <Filter>Plugins\PickupPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Source\UnrealPluginDemo">
+      <UniqueIdentifier>{F2EAC026-79C3-42BD-993C-86E8F52BB8F0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealPluginDemo\UnrealPluginDemo.Build.cs">
+      <Filter>Source\UnrealPluginDemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealPluginDemo\UnrealPluginDemo.cpp">
+      <Filter>Source\UnrealPluginDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealPluginDemo\UnrealPluginDemo.h">
+      <Filter>Source\UnrealPluginDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealPluginDemo\UnrealPluginDemoGameModeBase.cpp">
+      <Filter>Source\UnrealPluginDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealPluginDemo\UnrealPluginDemoGameModeBase.h">
+      <Filter>Source\UnrealPluginDemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
